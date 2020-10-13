@@ -2,7 +2,7 @@
 
 <img src="resources/vscode.png" width="100">
 
-Visual Studio Code logo in the design of MacOS Big Sur.
+Visual Studio Code logo in the design of macOS Big Sur.
 
 -----------------------------------------------
 ## How to install
