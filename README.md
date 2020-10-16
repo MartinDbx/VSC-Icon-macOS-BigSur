@@ -1,4 +1,4 @@
-# VSC-Logo-MacOS-BigSur
+# VSC-Logo-macOS-BigSur
 
 <img src="resources/vscode.png" width="100">
 
