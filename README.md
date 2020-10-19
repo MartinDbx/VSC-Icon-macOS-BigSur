@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 <img src="resources/banner.png" >
-=======
-# VSC-Logo-macOS-BigSur
->>>>>>> 30a44c779982cd434a689013467ecaa2af502901
 
 
-<<<<<<< HEAD
 # VSC-Logo-MacOS-BigSur
-=======
->>>>>>> 30a44c779982cd434a689013467ecaa2af502901
 Visual Studio Code logo in the design of macOS Big Sur.
 
 -----------------------------------------------
