@@ -1,11 +1,23 @@
-<div align="center">
-<img src="resources/banner.gif" >
-</div>
-
-# VSC-Logo-MacOS-BigSur
-Visual Studio Code logo in the design of macOS Big Sur.
+# VSC-Logo-macOS-BigSur
+Visual Studio Code icon in the design of macOS Big Sur.
 
 -----------------------------------------------
+## Content
+- [VSC-Logo-macOS-BigSur](#vsc-logo-macos-bigsur)
+  - [Content](#content)
+  - [Gallery](#gallery)
+    - [Light icon](#light-icon)
+    - [Dark icon](#dark-icon)
+  - [How to install](#how-to-install)
+  - [Manual installation](#manual-installation)
+  - [License](#license)
+## Gallery
+### Light icon
+<img src="resources/banner.png" >
+
+### Dark icon
+<img src="resources/banner2.png" >
+
 ## How to install
 You just have to open the Terminal, to go to the light or dark directory of the project  and to write the
 following command :
