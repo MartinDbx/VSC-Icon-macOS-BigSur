@@ -1,12 +1,13 @@
+<div align="center">
 <img src="resources/banner.gif" >
-
+</div>
 
 # VSC-Logo-MacOS-BigSur
 Visual Studio Code logo in the design of macOS Big Sur.
 
 -----------------------------------------------
 ## How to install
-You just have to open the Terminal, to go to the directory of the project and to write the
+You just have to open the Terminal, to go to the light or dark directory of the project  and to write the
 following command :
 ```
 $ bash setup.sh
