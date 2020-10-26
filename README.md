@@ -22,7 +22,7 @@ following command :
 ```
 $ bash setup.sh
 ```
-⚠️ Save a copy of the original logo of Visual Studio Code if you want to return to the original. (location : `/Applications/Visual Studio Code.app/Contents/Resources`).
+⚠️ Save a copy of the original logo of Visual Studio Code if you want to return to the original (location : `/Applications/Visual Studio Code.app/Contents/Resources`).
 
 ⚠️ If you install the project a second time, it will delete the original logo of Visual Studio Code.
 
