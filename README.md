@@ -2,12 +2,12 @@
   <img src="resources/banner2.png" >
 </div>
 
-# VSC-Logo-macOS-BigSur
+# Visual Studio Code icon for macOS Big Sur
 [Light](#light-icon) and [dark](#dark-icon) icon for Visual Studio Code in the design of macOS Big Sur.
 
 -----------------------------------------------
 ## Contents
-- [VSC-Logo-macOS-BigSur](#vsc-logo-macos-bigsur)
+- [Visual Studio Code icon for macOS Big Sur](#visual-studio-code-icon-for-macos-big-sur)
   - [Contents](#contents)
   - [How to install](#how-to-install)
   - [Manual installation](#manual-installation)
