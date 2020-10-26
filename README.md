@@ -1,22 +1,20 @@
+<div align="center">
+  <img src="resources/banner2.png" >
+</div>
+
 # VSC-Logo-macOS-BigSur
-Visual Studio Code icon in the design of macOS Big Sur.
+[Light](#light-icon) and [dark](#dark-icon) icon for Visual Studio Code in the design of macOS Big Sur.
 
 -----------------------------------------------
-## Content
+## Contents
 - [VSC-Logo-macOS-BigSur](#vsc-logo-macos-bigsur)
-  - [Content](#content)
+  - [Contents](#contents)
+  - [How to install](#how-to-install)
+  - [Manual installation](#manual-installation)
   - [Gallery](#gallery)
     - [Light icon](#light-icon)
     - [Dark icon](#dark-icon)
-  - [How to install](#how-to-install)
-  - [Manual installation](#manual-installation)
   - [License](#license)
-## Gallery
-### Light icon
-<img src="resources/banner.png" >
-
-### Dark icon
-<img src="resources/banner2.png" >
 
 ## How to install
 You just have to open the Terminal, to go to the light or dark directory of the project  and to write the
@@ -31,6 +29,14 @@ $ bash setup.sh
 ## Manual installation
 You just have to change the `Code.icns` file
 located at `/Applications/Visual Studio Code.app/Contents/Resources` and replace it by the new `Code.icns` picture in the project.
+
+-----------------------------------------------
+## Gallery
+### Light icon
+<img src="resources/banner.png" >
+
+### Dark icon
+<img src="resources/banner2.png" >
 
 -----------------------------------------------
 ## License
