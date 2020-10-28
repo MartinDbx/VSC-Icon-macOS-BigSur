@@ -2,6 +2,8 @@
   <img src="resources/banner2.png" >
 </div>
 
+
+
 # Visual Studio Code icon for macOS Big Sur
 [Light](#light-icon) and [dark](#dark-icon) icon for Visual Studio Code in the design of macOS Big Sur.
 
@@ -22,6 +24,8 @@ following command :
 ```
 $ bash setup.sh
 ```
+A restart of the mac may be necessary to update the icon.
+
 ⚠️ Save a copy of the original logo of Visual Studio Code if you want to return to the original (location : `/Applications/Visual Studio Code.app/Contents/Resources`).
 
 ⚠️ If you install the project a second time, it will delete the original logo of Visual Studio Code.
@@ -29,6 +33,8 @@ $ bash setup.sh
 ## Manual installation
 You just have to change the `Code.icns` file
 located at `/Applications/Visual Studio Code.app/Contents/Resources` and replace it by the new `Code.icns` picture in the project.
+
+A restart of the mac may be necessary to update the icon.
 
 -----------------------------------------------
 ## Gallery
@@ -40,6 +46,7 @@ located at `/Applications/Visual Studio Code.app/Contents/Resources` and replace
 
 -----------------------------------------------
 ## License
-[MIT License](LICENSE)
+
+![GitHub](https://img.shields.io/github/license/MartinDbx/VSC-Icon-macOS-BigSur?style=plastic)
 
 Visual Studio Code is the property of Microsoft. All rights reserved to Microsoft.
