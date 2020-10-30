@@ -5,6 +5,11 @@
 
 
 # Visual Studio Code icon for macOS Big Sur
+
+![GitHub repo size](https://img.shields.io/github/repo-size/MartinDbx/VSC-Icon-macOS-Bigsur)
+![version](https://img.shields.io/badge/version-2.1-blue)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 [Light](#light-icon) and [dark](#dark-icon) icon for Visual Studio Code in the design of macOS Big Sur.
 
 -----------------------------------------------
@@ -47,6 +52,6 @@ A restart of the mac may be necessary to update the icon.
 -----------------------------------------------
 ## License
 
-![GitHub](https://img.shields.io/github/license/MartinDbx/VSC-Icon-macOS-BigSur?style=plastic)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 Visual Studio Code is the property of Microsoft. All rights reserved to Microsoft.
